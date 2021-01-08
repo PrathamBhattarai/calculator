@@ -1,0 +1,21 @@
+body{
+    background: linear-gradient(to right,rgb(43, 43, 243),skyblue);
+}
+div.calculator{
+    text-align: center;
+    margin: 25%;
+    padding:40px;
+}
+div.screen{
+
+    padding:20px 30px;
+    background-color: white;
+    text-align: center;
+    display: inline-block;
+}
+.previous-numbers{
+    color: white;
+}
+.current-numbers{
+    color: white;
+}
