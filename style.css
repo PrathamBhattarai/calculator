@@ -1,21 +1,25 @@
-body{
-    background: linear-gradient(to right,rgb(43, 43, 243),skyblue);
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
-div.calculator{
-    text-align: center;
-    margin: 25%;
-    padding:40px;
+body {
+  background: linear-gradient(to right, rgb(43, 43, 243), skyblue);
 }
-div.screen{
-
-    padding:20px 30px;
-    background-color: white;
-    text-align: center;
-    display: inline-block;
+div.calculator {
+  text-align: center;
+  margin: 25%;
+  padding: 40px;
 }
-.previous-numbers{
-    color: white;
+div.screen {
+  padding: 20px 30px;
+  background-color: white;
+  text-align: center;
+  display: inline-block;
 }
-.current-numbers{
-    color: white;
+.previous-numbers {
+  color: white;
+}
+.current-numbers {
+  color: white;
 }
